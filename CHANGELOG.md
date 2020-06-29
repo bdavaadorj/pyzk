@@ -1,6 +1,6 @@
 Changelog
 =========
-Version 0.9
+Version 0.10
 -----------
 * Initial Python 3 Support
 * major changes
